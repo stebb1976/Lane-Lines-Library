@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T19:28:26.728Z",
+  "updatedAt": "2026-08-22T20:47:18.349Z",
   "drills": [
     {
       "id": "drill_mt4rt3rrdac78",
@@ -46,8 +46,8 @@
     },
     {
       "id": "drill_mt4j7la2hyqzh",
-      "stroke": "Fly",
       "name": "Body Dolphin",
+      "stroke": "Fly",
       "description": "Alternate 4–6 underwater dolphin kicks on the stomach and back; keep the kick driven from the core."
     },
     {
