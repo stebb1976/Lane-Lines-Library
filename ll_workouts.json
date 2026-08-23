@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T00:15:27.714Z",
+  "updatedAt": "2026-08-23T00:15:56.639Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -1353,54 +1353,6 @@
       ],
       "savedAt": 1786728333209,
       "id": 16
-    },
-    {
-      "title": "Untitled set",
-      "focus": "",
-      "tags": "",
-      "pool": "25",
-      "blocks": [
-        {
-          "name": "Warm Up",
-          "note": "",
-          "focus": "",
-          "pool": "",
-          "repeat": 1,
-          "roundInstructions": [],
-          "items": [
-            {
-              "type": "rep",
-              "count": 4,
-              "distance": 100,
-              "stroke": "Freestyle",
-              "activity": "Swim",
-              "transition": "2:00",
-              "interval": "1:30",
-              "detail": ""
-            }
-          ]
-        },
-        {
-          "name": "Main Set",
-          "note": "",
-          "focus": "",
-          "pool": "",
-          "repeat": 1,
-          "roundInstructions": [],
-          "items": []
-        },
-        {
-          "name": "Cool Down",
-          "note": "",
-          "focus": "",
-          "pool": "",
-          "repeat": 1,
-          "roundInstructions": [],
-          "items": []
-        }
-      ],
-      "savedAt": 1787444093678,
-      "id": 29
     }
   ]
 }
