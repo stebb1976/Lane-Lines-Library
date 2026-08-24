@@ -728,7 +728,7 @@
       "id": "block_mt4oa788zs8199",
       "name": "Cool Down",
       "source": "Freestyle Build Up 1",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Cool Down",
@@ -753,7 +753,7 @@
       "id": "block_mt4oa788pvpxms",
       "name": "Cool Down",
       "source": "Freestyle Build up 2",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Cool Down",
@@ -824,7 +824,7 @@
       "id": "block_mt33o7z7iuji2h",
       "name": "Cool Down",
       "source": "Day 2",
-      "focus": "Freestyle technique ",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Cool Down",
@@ -1131,7 +1131,7 @@
       "id": "block_mt4oa788w9btfa",
       "name": "Freestyle",
       "source": "Freestyle Build Up 1",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Freestyle",
@@ -1165,7 +1165,7 @@
       "id": "block_mt4oa7889cc7mz",
       "name": "Freestyle",
       "source": "Freestyle Build up 2",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Freestyle",
@@ -1217,7 +1217,7 @@
       "id": "block_mt4oa7884k2mgl",
       "name": "Freestyle Build Up",
       "source": "Freestyle Build Up 1",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Freestyle Build Up",
@@ -1305,7 +1305,7 @@
       "id": "block_mt33o7z72e0i9w",
       "name": "Freestyle Build Up",
       "source": "Day 2",
-      "focus": "Freestyle technique ",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Freestyle Build Up",
@@ -1459,7 +1459,7 @@
       "id": "block_mt4oa788llbroo",
       "name": "Freestyle Build Up 2",
       "source": "Freestyle Build up 2",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Freestyle Build Up 2",
@@ -1807,7 +1807,7 @@
       "id": "block_mt4oa788dfqn7d",
       "name": "Kick Set",
       "source": "Freestyle Build Up 1",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Kick Set",
@@ -1832,7 +1832,7 @@
       "id": "block_mt4oa7880i048g",
       "name": "Kick Set",
       "source": "Freestyle Build up 2",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Kick Set",
@@ -2018,7 +2018,7 @@
       "id": "block_mt33o7z7fmno42",
       "name": "Main Set",
       "source": "Day 2",
-      "focus": "Freestyle technique ",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Main Set",
@@ -2517,7 +2517,7 @@
       "id": "block_mt4oa788c4bfpn",
       "name": "Warm Up",
       "source": "Freestyle Build Up 1",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Warm Up",
@@ -2560,7 +2560,7 @@
       "id": "block_mt4oa788pt3i4f",
       "name": "Warm Up",
       "source": "Freestyle Build up 2",
-      "focus": "Freestyle technique",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Warm Up",
@@ -2704,7 +2704,7 @@
       "id": "block_mt33o7z7onacl3",
       "name": "Warm Up",
       "source": "Day 2",
-      "focus": "Freestyle technique ",
+      "focus": "Freestyle Technique",
       "pool": "25",
       "block": {
         "name": "Warm Up",
