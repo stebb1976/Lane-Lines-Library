@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T00:20:17.900Z",
+  "updatedAt": "2026-08-24T21:08:37.132Z",
   "blocks": [
     {
       "id": "block_mt4oa788z75djx",
@@ -253,28 +253,6 @@
         ]
       },
       "savedAt": 1787420949272
-    },
-    {
-      "id": "block_mt33o7z7t4gorx",
-      "name": "Breakout work",
-      "source": "50 Race Pace",
-      "focus": "Speed, walls, and recovery",
-      "pool": "25",
-      "block": {
-        "name": "Breakout work",
-        "note": "Fast into a clean breakout.",
-        "repeat": 2,
-        "reps": [
-          {
-            "count": 4,
-            "distance": 25,
-            "stroke": "Choice",
-            "interval": ":40",
-            "detail": "15 m fast, easy in"
-          }
-        ]
-      },
-      "savedAt": 1787325865315
     },
     {
       "id": "block_mt4oa788oqkz87",
@@ -800,27 +778,6 @@
       "savedAt": 1787420949272
     },
     {
-      "id": "block_mt33o7z7pupii0",
-      "name": "Cool Down",
-      "source": "50 Race Pace",
-      "focus": "Speed, walls, and recovery",
-      "pool": "25",
-      "block": {
-        "name": "Cool Down",
-        "note": "Easy choice.",
-        "reps": [
-          {
-            "count": 1,
-            "distance": 300,
-            "stroke": "Choice",
-            "interval": "",
-            "detail": ""
-          }
-        ]
-      },
-      "savedAt": 1787325865315
-    },
-    {
       "id": "block_mt33o7z7iuji2h",
       "name": "Cool Down",
       "source": "Day 2",
@@ -855,50 +812,6 @@
           }
         ],
         "children": []
-      },
-      "savedAt": 1787325865315
-    },
-    {
-      "id": "block_mt33o7z725l64t",
-      "name": "Cool Down",
-      "source": "Freestyle Pace Ladder",
-      "focus": "Aerobic pacing and control",
-      "pool": "25",
-      "block": {
-        "name": "Cool Down",
-        "note": "Easy choice.",
-        "repeat": 1,
-        "reps": [
-          {
-            "count": 1,
-            "distance": 200,
-            "stroke": "Choice",
-            "interval": "",
-            "detail": ""
-          }
-        ],
-        "children": []
-      },
-      "savedAt": 1787325865315
-    },
-    {
-      "id": "block_mt33o7z78fz5pn",
-      "name": "Cool Down",
-      "source": "IM Transitions",
-      "focus": "IM skills and clean turns",
-      "pool": "25",
-      "block": {
-        "name": "Cool Down",
-        "note": "Easy choice.",
-        "reps": [
-          {
-            "count": 1,
-            "distance": 300,
-            "stroke": "Choice",
-            "interval": "",
-            "detail": ""
-          }
-        ]
       },
       "savedAt": 1787325865315
     },
@@ -1768,42 +1681,6 @@
       "savedAt": 1786911584018
     },
     {
-      "id": "block_mt33o7z796tah9",
-      "name": "IM circuit",
-      "source": "IM Transitions",
-      "focus": "IM skills and clean turns",
-      "pool": "25",
-      "block": {
-        "name": "IM circuit",
-        "note": "Make every transition deliberate.",
-        "reps": [
-          {
-            "count": 4,
-            "distance": 100,
-            "stroke": "IM",
-            "interval": "1:45",
-            "detail": "descend 1–4"
-          }
-        ],
-        "children": [
-          {
-            "name": "Transition skills",
-            "note": "Reset and focus on the wall.",
-            "reps": [
-              {
-                "count": 4,
-                "distance": 50,
-                "stroke": "Choice",
-                "interval": "1:05",
-                "detail": "25 fast into turn + 25 easy"
-              }
-            ]
-          }
-        ]
-      },
-      "savedAt": 1787325865315
-    },
-    {
       "id": "block_mt4oa788dfqn7d",
       "name": "Kick Set",
       "source": "Freestyle Build Up 1",
@@ -2139,27 +2016,6 @@
       "savedAt": 1787325865315
     },
     {
-      "id": "block_mt33o7z7e5vrgz",
-      "name": "Race pace",
-      "source": "50 Race Pace",
-      "focus": "Speed, walls, and recovery",
-      "pool": "25",
-      "block": {
-        "name": "Race pace",
-        "note": "Quality first. Take the easy repeats seriously.",
-        "reps": [
-          {
-            "count": 8,
-            "distance": 50,
-            "stroke": "Freestyle",
-            "interval": "1:15",
-            "detail": "odds race pace, evens easy"
-          }
-        ]
-      },
-      "savedAt": 1787325865315
-    },
-    {
       "id": "block_mt4oa788lg9om5",
       "name": "Relays",
       "source": "Day 4",
@@ -2353,28 +2209,6 @@
           }
         ],
         "children": []
-      },
-      "savedAt": 1787325865315
-    },
-    {
-      "id": "block_mt33o7z7vxsxe4",
-      "name": "Transition skills",
-      "source": "IM Transitions",
-      "focus": "IM skills and clean turns",
-      "pool": "25",
-      "block": {
-        "type": "block",
-        "name": "Transition skills",
-        "note": "Reset and focus on the wall.",
-        "reps": [
-          {
-            "count": 4,
-            "distance": 50,
-            "stroke": "Choice",
-            "interval": "1:05",
-            "detail": "25 fast into turn + 25 easy"
-          }
-        ]
       },
       "savedAt": 1787325865315
     },
@@ -2680,27 +2514,6 @@
       "savedAt": 1787420949272
     },
     {
-      "id": "block_mt33o7z7etv0ds",
-      "name": "Warm Up",
-      "source": "50 Race Pace",
-      "focus": "Speed, walls, and recovery",
-      "pool": "25",
-      "block": {
-        "name": "Warm Up",
-        "note": "Build speed through the walls.",
-        "reps": [
-          {
-            "count": 1,
-            "distance": 500,
-            "stroke": "Choice",
-            "interval": "",
-            "detail": "swim / drill / kick"
-          }
-        ]
-      },
-      "savedAt": 1787325865315
-    },
-    {
       "id": "block_mt33o7z7onacl3",
       "name": "Warm Up",
       "source": "Day 2",
@@ -2771,50 +2584,6 @@
           }
         ],
         "children": []
-      },
-      "savedAt": 1787325865315
-    },
-    {
-      "id": "block_mt33o7z7nm22nj",
-      "name": "Warm Up",
-      "source": "Freestyle Pace Ladder",
-      "focus": "Aerobic pacing and control",
-      "pool": "25",
-      "block": {
-        "name": "Warm Up",
-        "note": "Build gradually and establish a calm breathing pattern.",
-        "repeat": 2,
-        "reps": [
-          {
-            "count": 1,
-            "distance": 400,
-            "stroke": "Choice",
-            "interval": "1:30",
-            "detail": "swim / kick / drill"
-          }
-        ],
-        "children": []
-      },
-      "savedAt": 1787325865315
-    },
-    {
-      "id": "block_mt33o7z7pkj73n",
-      "name": "Warm Up",
-      "source": "IM Transitions",
-      "focus": "IM skills and clean turns",
-      "pool": "25",
-      "block": {
-        "name": "Warm Up",
-        "note": "Prepare each stroke with good body line.",
-        "reps": [
-          {
-            "count": 4,
-            "distance": 75,
-            "stroke": "IM",
-            "interval": "1:25",
-            "detail": "25 drill / 50 swim"
-          }
-        ]
       },
       "savedAt": 1787325865315
     },
