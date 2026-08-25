@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T20:04:24.621Z",
+  "updatedAt": "2026-08-25T21:24:15.023Z",
   "scheduledWorkouts": [
     {
-      "id": "calendar_mt7sgze1skrme0",
-      "date": "2026-08-24",
+      "id": "calendar_mt93lozmx1n5gl",
+      "date": "2026-08-25",
       "notes": "",
       "set": {
-        "title": "Build Endurance",
-        "focus": "Endurance ",
-        "tags": "",
+        "title": "IM Focus",
+        "focus": "IM",
+        "tags": "IM, technique, sprint",
         "pool": "25",
         "blocks": [
           {
-            "name": "Warm Up 1",
-            "note": "",
+            "name": "Warm Up",
+            "note": "Build each stroke in IM order before the main set.",
             "focus": "Warm Up",
             "pool": "",
             "repeat": 1,
@@ -27,228 +27,88 @@
                 "stroke": "Choice",
                 "activity": "Swim",
                 "transition": "2:00",
-                "interval": "5:00",
-                "detail": ""
+                "interval": "4:00",
+                "detail": "Choice swim"
               },
               {
                 "type": "rep",
                 "count": 1,
-                "distance": 200,
-                "stroke": "",
-                "activity": "Kick",
-                "transition": "2:00",
-                "interval": "1:30",
-                "detail": "w fins"
+                "distance": 300,
+                "stroke": "IM",
+                "activity": "Drill",
+                "transition": "0:00",
+                "interval": "6:00",
+                "detail": "100 IM kick / 100 IM drill / 100 IM swim"
               },
               {
                 "type": "rep",
-                "count": 1,
-                "distance": 200,
-                "stroke": "Freestyle",
-                "activity": "Pull",
-                "transition": "2:00",
-                "interval": "1:30",
-                "detail": "pull w upside down paddles"
+                "count": 4,
+                "distance": 50,
+                "stroke": "IM",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:00",
+                "detail": "IM order"
               }
             ]
           },
           {
             "name": "Main Set",
-            "note": "45 base up 40 sec base down(add time to base for other groups)(grab equipment if missing intervals)",
-            "focus": "",
+            "note": "Hold solid IM technique at a challenging but sustainable interval.",
+            "focus": "IM",
             "pool": "",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
               {
                 "type": "rep",
-                "count": 1,
-                "distance": 25,
-                "stroke": "Freestyle",
+                "count": 10,
+                "distance": 100,
+                "stroke": "IM",
                 "activity": "Swim",
                 "transition": "2:00",
-                "interval": "0:45",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 50,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "0:45",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 75,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "1:30",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 100,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "1:30",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 125,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:15",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 150,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:15",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 175,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "3:00",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 200,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "3:00",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 200,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:40",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 175,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:40",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 150,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:00",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 125,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "2:00",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 100,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "1:20",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 75,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "1:20",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 50,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "0:40",
-                "detail": ""
-              },
-              {
-                "type": "rep",
-                "count": 1,
-                "distance": 25,
-                "stroke": "Freestyle",
-                "activity": "Swim",
-                "transition": "0:00",
-                "interval": "0:40",
-                "detail": ""
+                "interval": "1:45",
+                "detail": "don't take any bodies head off in butterfly"
               }
             ]
           },
           {
-            "name": "Drills",
-            "note": "",
-            "focus": "Freestyle technique",
+            "name": "Drill Work",
+            "note": "Placeholder: choose the stroke and drill before practice.",
+            "focus": "Breaststroke",
             "pool": "",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
               {
                 "type": "rep",
-                "count": 3,
-                "distance": 100,
-                "stroke": "Freestyle",
+                "count": 8,
+                "distance": 50,
+                "stroke": "Choice",
                 "activity": "Drill",
                 "transition": "2:00",
-                "interval": "3:00",
-                "detail": "Rt/lt/cu/sw. 30 sec rest"
+                "interval": "1:30",
+                "detail": "Choose Stroke drills on 20 sec rest, stick with the same stroke"
               },
               {
                 "type": "rep",
-                "count": 6,
+                "count": 4,
+                "distance": 50,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "same stroke as above on 20 sec rest on first one and hold that interval,  descend"
+              },
+              {
+                "type": "rep",
+                "count": 1,
                 "distance": 50,
                 "stroke": "Freestyle",
                 "activity": "Swim",
                 "transition": "2:00",
-                "interval": "1:15",
-                "detail": "Build to sprint, work walls"
+                "interval": "1:30",
+                "detail": "All Out"
               }
             ]
           },
@@ -262,50 +122,60 @@
             "items": [
               {
                 "type": "rep",
-                "count": 10,
-                "distance": 50,
+                "count": 2,
+                "distance": 100,
                 "stroke": "Freestyle",
-                "activity": "Swim",
+                "activity": "Kick",
                 "transition": "2:00",
-                "interval": "1:00",
-                "detail": "W fins and kickboard"
+                "interval": "2:15",
+                "detail": ""
               },
               {
                 "type": "rep",
-                "count": 10,
-                "distance": 25,
-                "stroke": "Butterfly",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Freestyle",
                 "activity": "Kick",
-                "transition": "2:00",
-                "interval": "1:00",
-                "detail": "W fins no board, underwater "
+                "transition": "1:00",
+                "interval": "1:15",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 8,
+                "distance": 25,
+                "stroke": "Freestyle",
+                "activity": "Kick",
+                "transition": "1:00",
+                "interval": "0:45",
+                "detail": ""
               }
             ]
           },
           {
-            "name": "Sprints",
-            "note": "",
-            "focus": "",
+            "name": "Coach's Call Sprints",
+            "note": "Fast 25s on the coach's call.",
+            "focus": "Sprint",
             "pool": "",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
               {
                 "type": "rep",
-                "count": 6,
+                "count": 10,
                 "distance": 25,
                 "stroke": "Choice",
                 "activity": "Swim",
                 "transition": "2:00",
-                "interval": "0:30",
-                "detail": ""
+                "interval": "0:40",
+                "detail": "Coach's call"
               }
             ]
           },
           {
             "name": "Cool Down",
-            "note": "",
-            "focus": "",
+            "note": "Easy choice; reset and recover.",
+            "focus": "Cool Down",
             "pool": "",
             "repeat": 1,
             "roundInstructions": [],
@@ -316,15 +186,13 @@
                 "distance": 100,
                 "stroke": "Choice",
                 "activity": "Swim",
-                "transition": "2:00",
-                "interval": "1:30",
-                "detail": ""
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": "Easy choice"
               }
             ]
           }
-        ],
-        "id": 29,
-        "savedAt": 1787609382691
+        ]
       }
     }
   ]
