@@ -1,5 +1,331 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T20:47:19.545Z",
-  "scheduledWorkouts": []
+  "updatedAt": "2026-08-25T20:04:24.621Z",
+  "scheduledWorkouts": [
+    {
+      "id": "calendar_mt7sgze1skrme0",
+      "date": "2026-08-24",
+      "notes": "",
+      "set": {
+        "title": "Build Endurance",
+        "focus": "Endurance ",
+        "tags": "",
+        "pool": "25",
+        "blocks": [
+          {
+            "name": "Warm Up 1",
+            "note": "",
+            "focus": "Warm Up",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "5:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "",
+                "activity": "Kick",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "w fins"
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Freestyle",
+                "activity": "Pull",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "pull w upside down paddles"
+              }
+            ]
+          },
+          {
+            "name": "Main Set",
+            "note": "45 base up 40 sec base down(add time to base for other groups)(grab equipment if missing intervals)",
+            "focus": "",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 25,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "0:45",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "0:45",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 75,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:30",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:30",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 125,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:15",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 150,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:15",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 175,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "3:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "3:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:40",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 175,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:40",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 150,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 125,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:20",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 75,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:20",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "0:40",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 25,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "0:40",
+                "detail": ""
+              }
+            ]
+          },
+          {
+            "name": "Drills",
+            "note": "",
+            "focus": "Freestyle technique",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 3,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Drill",
+                "transition": "2:00",
+                "interval": "3:00",
+                "detail": "Rt/lt/cu/sw. 30 sec rest"
+              },
+              {
+                "type": "rep",
+                "count": 6,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:15",
+                "detail": "Build to sprint, work walls"
+              }
+            ]
+          },
+          {
+            "name": "Kick Set",
+            "note": "",
+            "focus": "Kicking",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "W fins and kickboard"
+              },
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 25,
+                "stroke": "Butterfly",
+                "activity": "Kick",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "W fins no board, underwater "
+              }
+            ]
+          },
+          {
+            "name": "Sprints",
+            "note": "",
+            "focus": "",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 6,
+                "distance": 25,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "0:30",
+                "detail": ""
+              }
+            ]
+          },
+          {
+            "name": "Cool Down",
+            "note": "",
+            "focus": "",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": ""
+              }
+            ]
+          }
+        ],
+        "id": 29,
+        "savedAt": 1787609382691
+      }
+    }
+  ]
 }
