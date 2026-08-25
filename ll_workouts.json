@@ -1,7 +1,136 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T21:08:35.582Z",
+  "updatedAt": "2026-08-25T19:54:35.711Z",
   "sets": [
+    {
+      "title": "IM Focus",
+      "focus": "IM",
+      "tags": "IM, technique, sprint",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up",
+          "note": "Build each stroke in IM order before the main set.",
+          "focus": "Warm Up",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "4:00",
+              "detail": "Choice swim"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 300,
+              "stroke": "IM",
+              "activity": "Drill",
+              "transition": "2:00",
+              "interval": "6:00",
+              "detail": "100 IM kick / 100 IM drill / 100 IM swim"
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 50,
+              "stroke": "IM",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:05",
+              "detail": "IM order"
+            }
+          ]
+        },
+        {
+          "name": "Main Set",
+          "note": "Hold solid IM technique at a challenging but sustainable interval.",
+          "focus": "IM",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 10,
+              "distance": 100,
+              "stroke": "IM",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "Hold stroke quality; adjust interval later if needed"
+            }
+          ]
+        },
+        {
+          "name": "Drill Work",
+          "note": "Placeholder: choose the stroke and drill before practice.",
+          "focus": "IM",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 50,
+              "stroke": "Choice",
+              "activity": "Drill",
+              "transition": "2:00",
+              "interval": "1:15",
+              "detail": "Choose stroke and drill"
+            }
+          ]
+        },
+        {
+          "name": "Coach's Call Sprints",
+          "note": "Fast 25s on the coach's call.",
+          "focus": "Sprint",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 20,
+              "distance": 25,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "0:40",
+              "detail": "Coach's call"
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "Easy choice; reset and recover.",
+          "focus": "Cool Down",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "4:00",
+              "detail": "Easy choice"
+            }
+          ]
+        }
+      ],
+      "savedAt": 1787687675710
+    },
     {
       "title": "Backstroke Build Up",
       "focus": "Backstroke",
