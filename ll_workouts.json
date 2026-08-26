@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T21:24:13.551Z",
+  "updatedAt": "2026-08-26T20:39:21.177Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -1803,6 +1803,116 @@
       ],
       "savedAt": 1787687675710,
       "id": 30
+    },
+    {
+      "title": "Short",
+      "focus": "",
+      "tags": "",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up 2",
+          "note": "",
+          "focus": "Warm Up",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "4:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "Rt/lt/sw, rest 10 sec"
+            }
+          ]
+        },
+        {
+          "name": "Kick Set",
+          "note": "",
+          "focus": "",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 3,
+              "distance": 100,
+              "stroke": "Butterfly",
+              "activity": "Kick",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "Kick w fins, Body control rotate underwater while dolphin kicking"
+            },
+            {
+              "type": "rep",
+              "count": 3,
+              "distance": 100,
+              "stroke": "Freestyle, Butterfly",
+              "activity": "Kick",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "Kick w fins underwater then on back"
+            }
+          ]
+        },
+        {
+          "name": "Main Set",
+          "note": "",
+          "focus": "",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 8,
+              "distance": 50,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "Catchup a strong kick"
+            }
+          ]
+        },
+        {
+          "name": "Relay Starts",
+          "note": "",
+          "focus": "",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 16,
+              "distance": 25,
+              "stroke": "Freestyle, Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "Continuous relays, focus on relay exchanges "
+            }
+          ]
+        }
+      ],
+      "id": 31,
+      "savedAt": 1787776737902
     }
   ]
 }
