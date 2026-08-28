@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T12:54:22.922Z",
+  "updatedAt": "2026-08-28T18:44:39.304Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -1673,6 +1673,67 @@
       ],
       "savedAt": 1786728333209,
       "id": 16
+    },
+    {
+      "title": "Fun Friday 2",
+      "focus": "Fun",
+      "tags": "Fun",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Relay Fun",
+          "note": "",
+          "focus": "",
+          "pool": "",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 25,
+              "stroke": "",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "5:00",
+              "detail": "Relay: Ride a little Pony, everyone twice thru"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 25,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "5:00",
+              "detail": "Relay: Tandem, everyone twice thru"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 25,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "5:00",
+              "detail": "Relay: Swim n Switch Lanes,   After swimming move to the lane on the right.  Relay is over win everyone has swum in every lane."
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 100,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "5:00",
+              "detail": "Sharks and minnows "
+            }
+          ]
+        }
+      ],
+      "laneGroups": [],
+      "id": 33,
+      "savedAt": 1787928022515
     },
     {
       "title": "IM Focus",
