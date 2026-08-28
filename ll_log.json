@@ -1,7 +1,204 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T21:24:16.996Z",
+  "updatedAt": "2026-08-28T18:44:40.589Z",
   "logs": [
+    {
+      "id": "log_mtd1js86zu6tia",
+      "title": "IM Focus",
+      "date": "2026-08-25",
+      "notes": "IM",
+      "total": 3300,
+      "unit": "yd",
+      "set": {
+        "title": "IM Focus",
+        "focus": "IM",
+        "tags": "IM, technique, sprint",
+        "pool": "25",
+        "blocks": [
+          {
+            "name": "Warm Up",
+            "note": "Build each stroke in IM order before the main set.",
+            "focus": "Warm Up",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "4:00",
+                "detail": "Choice swim"
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 300,
+                "stroke": "IM",
+                "activity": "Drill",
+                "transition": "0:00",
+                "interval": "6:00",
+                "detail": "100 IM kick / 100 IM drill / 100 IM swim"
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "IM",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:00",
+                "detail": "IM order"
+              }
+            ]
+          },
+          {
+            "name": "Main Set",
+            "note": "Hold solid IM technique at a challenging but sustainable interval.",
+            "focus": "IM",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 100,
+                "stroke": "IM",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:45",
+                "detail": "don't take any bodies head off in butterfly"
+              }
+            ]
+          },
+          {
+            "name": "Drill Work",
+            "note": "Placeholder: choose the stroke and drill before practice.",
+            "focus": "Breaststroke",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 8,
+                "distance": 50,
+                "stroke": "Choice",
+                "activity": "Drill",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "Choose Stroke drills on 20 sec rest, stick with the same stroke"
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "same stroke as above on 20 sec rest on first one and hold that interval,  descend"
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "All Out"
+              }
+            ]
+          },
+          {
+            "name": "Kick Set",
+            "note": "",
+            "focus": "Kicking",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 2,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Kick",
+                "transition": "2:00",
+                "interval": "2:15",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Kick",
+                "transition": "1:00",
+                "interval": "1:15",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 8,
+                "distance": 25,
+                "stroke": "Freestyle",
+                "activity": "Kick",
+                "transition": "1:00",
+                "interval": "0:45",
+                "detail": ""
+              }
+            ]
+          },
+          {
+            "name": "Coach's Call Sprints",
+            "note": "Fast 25s on the coach's call.",
+            "focus": "Sprint",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 25,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "0:40",
+                "detail": "Coach's call"
+              }
+            ]
+          },
+          {
+            "name": "Cool Down",
+            "note": "Easy choice; reset and recover.",
+            "focus": "Cool Down",
+            "pool": "",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": "Easy choice"
+              }
+            ]
+          }
+        ],
+        "id": 32
+      }
+    },
     {
       "id": "log_mt93lj25rc80ry",
       "title": "Build Endurance",
