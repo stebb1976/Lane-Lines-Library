@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T18:44:36.666Z",
+  "updatedAt": "2026-08-28T19:05:30.440Z",
   "scheduledWorkouts": [
     {
       "id": "calendar_mtd1urnsprr9sj",
@@ -16,7 +16,7 @@
             "name": "Warm Up 2",
             "note": "",
             "focus": "Warm Up",
-            "pool": "",
+            "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
@@ -46,7 +46,7 @@
             "name": "Kick Set",
             "note": "",
             "focus": "",
-            "pool": "",
+            "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
@@ -88,7 +88,7 @@
                 "activity": "Swim",
                 "transition": "2:00",
                 "interval": "0:45",
-                "detail": "Underwater half way"
+                "detail": "No fins, Underwater half way"
               }
             ]
           },
@@ -96,7 +96,7 @@
             "name": "Main Set",
             "note": "",
             "focus": "",
-            "pool": "",
+            "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
@@ -116,7 +116,7 @@
             "name": "Relay Starts",
             "note": "",
             "focus": "",
-            "pool": "",
+            "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
