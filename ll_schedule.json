@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T19:05:30.440Z",
+  "updatedAt": "2026-08-31T01:45:55.498Z",
   "scheduledWorkouts": [
     {
       "id": "calendar_mtd1urnsprr9sj",
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "notes": "",
       "set": {
-        "title": "Short",
-        "focus": "",
+        "title": "Underwater Body Control & Sprint Free",
+        "focus": "Freestyle Sprint",
         "tags": "",
         "pool": "25",
         "blocks": [
@@ -89,17 +89,7 @@
                 "transition": "2:00",
                 "interval": "0:45",
                 "detail": "No fins, Underwater half way"
-              }
-            ]
-          },
-          {
-            "name": "Main Set",
-            "note": "",
-            "focus": "",
-            "pool": "25",
-            "repeat": 1,
-            "roundInstructions": [],
-            "items": [
+              },
               {
                 "type": "rep",
                 "count": 8,
@@ -113,22 +103,52 @@
             ]
           },
           {
-            "name": "Relay Starts",
+            "name": "Main Set",
             "note": "",
-            "focus": "",
+            "focus": "Freestyle Sprint",
             "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
               {
                 "type": "rep",
-                "count": 8,
-                "distance": 25,
+                "count": 10,
+                "distance": 100,
                 "stroke": "Freestyle",
                 "activity": "Swim",
                 "transition": "2:00",
-                "interval": "1:00",
-                "detail": "Continuous relays, focus on relay exchanges "
+                "interval": "2:00",
+                "detail": "Broken 100, 1st 50 work first 25+, 2nd 50 work last 25+, Middle 50- moderate"
+              },
+              {
+                "type": "rep",
+                "count": 8,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "3:00",
+                "detail": "All out 50 followed by easy 50"
+              }
+            ]
+          },
+          {
+            "name": "Cool Down",
+            "note": "",
+            "focus": "Cool Down",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": ""
               }
             ]
           }
@@ -138,7 +158,7 @@
     },
     {
       "id": "calendar_mtd26jg7rji7iv",
-      "date": "2026-08-28",
+      "date": "2026-09-11",
       "notes": "",
       "set": {
         "title": "Fun Friday 2",
@@ -150,7 +170,7 @@
             "name": "Relay Fun",
             "note": "",
             "focus": "",
-            "pool": "",
+            "pool": "25",
             "repeat": 1,
             "roundInstructions": [],
             "items": [
@@ -197,9 +217,7 @@
             ]
           }
         ],
-        "laneGroups": [],
-        "id": 33,
-        "savedAt": 1787928022515
+        "laneGroups": []
       }
     },
     {
@@ -207,6 +225,190 @@
       "type": "meet",
       "date": "2026-08-27",
       "title": "LHMS v ERHS v THS"
+    },
+    {
+      "id": "calendar_mtggg8xli0896g",
+      "date": "2026-09-01",
+      "notes": "",
+      "set": {
+        "title": "Enurance Freestyle",
+        "focus": "Endurance",
+        "tags": "",
+        "pool": "25",
+        "blocks": [
+          {
+            "name": "Warm Up (Upside-down Paddles+K/P/S)",
+            "note": "",
+            "focus": "Warm Up",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "4:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "4:00",
+                "detail": "Upside down paddles"
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 75,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "2:00",
+                "detail": "kick/cu/sw by 25 on 10-15 sec rest"
+              }
+            ]
+          },
+          {
+            "name": "Freestyle Endurance",
+            "note": "",
+            "focus": "Endurance",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 500,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "7:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 2,
+                "distance": 250,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "3:30",
+                "detail": "w paddles"
+              },
+              {
+                "type": "rep",
+                "count": 5,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "1:25",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:25",
+                "interval": "0:45",
+                "detail": "w paddles & buoy"
+              },
+              {
+                "type": "rep",
+                "count": 20,
+                "distance": 25,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:30",
+                "interval": "0:30",
+                "detail": ""
+              }
+            ]
+          },
+          {
+            "name": "Backstroke Drills",
+            "note": "With Fins",
+            "focus": "Backstroke Drills",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 3,
+                "distance": 50,
+                "stroke": "Backstroke",
+                "activity": "Drill",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "Back drills: head back - arms at side w rotation"
+              },
+              {
+                "type": "rep",
+                "count": 3,
+                "distance": 50,
+                "stroke": "Backstroke",
+                "activity": "Drill",
+                "transition": "1:00",
+                "interval": "1:00",
+                "detail": "Back drills: kick with one arm in streamline rt/lt by 25. rotate hips to side of streamline arm, head straight up"
+              },
+              {
+                "type": "rep",
+                "count": 3,
+                "distance": 50,
+                "stroke": "Backstroke",
+                "activity": "Drill",
+                "transition": "1:00",
+                "interval": "1:00",
+                "detail": "Single-Arm Backstroke: Keep one arm at the side and use the working arm to focus on clean rotation and entry."
+              },
+              {
+                "type": "rep",
+                "count": 10,
+                "distance": 50,
+                "stroke": "Backstroke",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "perfect backstroke build"
+              }
+            ]
+          },
+          {
+            "name": "Cool Down",
+            "note": "",
+            "focus": "Cool Down",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "2:00",
+                "detail": ""
+              }
+            ]
+          }
+        ],
+        "laneGroups": []
+      }
     }
   ]
 }
