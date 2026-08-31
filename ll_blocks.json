@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T18:57:37.952Z",
+  "updatedAt": "2026-08-31T01:45:54.322Z",
   "blocks": [
     {
       "id": "block_mt4oa788mjqqw7",
@@ -805,6 +805,74 @@
       "savedAt": 1786913449352
     },
     {
+      "id": "block_mtggee9yf4x4fg",
+      "name": "Freestyle Endurance",
+      "source": "Custom block",
+      "focus": "Endurance",
+      "pool": "25",
+      "block": {
+        "name": "Freestyle Endurance",
+        "note": "",
+        "focus": "Endurance",
+        "pool": "25",
+        "repeat": 1,
+        "roundInstructions": [],
+        "items": [
+          {
+            "type": "rep",
+            "count": 1,
+            "distance": 500,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "2:00",
+            "interval": "7:00",
+            "detail": ""
+          },
+          {
+            "type": "rep",
+            "count": 2,
+            "distance": 250,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "0:00",
+            "interval": "3:30",
+            "detail": ""
+          },
+          {
+            "type": "rep",
+            "count": 5,
+            "distance": 100,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "0:00",
+            "interval": "1:25",
+            "detail": ""
+          },
+          {
+            "type": "rep",
+            "count": 10,
+            "distance": 50,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "0:25",
+            "interval": "0:45",
+            "detail": ""
+          },
+          {
+            "type": "rep",
+            "count": 20,
+            "distance": 25,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "0:30",
+            "interval": "0:30",
+            "detail": ""
+          }
+        ]
+      },
+      "savedAt": 1788133302214
+    },
+    {
       "id": "block_msv4mq5h7hb9de",
       "name": "Fun Friday 1",
       "source": "Fun Friday 1",
@@ -1129,15 +1197,15 @@
     },
     {
       "id": "block_msv4mq5h5edp69",
-      "name": "Warm Up 1",
-      "source": "Day 2",
+      "name": "Warm Up (Kick w Fins/Pull w Paddles)",
+      "source": "Custom block",
       "focus": "Warm Up",
       "pool": "25",
       "block": {
-        "name": "Warm Up 1",
+        "name": "Warm Up (Kick w Fins/Pull w Paddles)",
         "note": "",
         "focus": "Warm Up",
-        "pool": "",
+        "pool": "25",
         "repeat": 1,
         "roundInstructions": [],
         "items": [
@@ -1173,19 +1241,19 @@
           }
         ]
       },
-      "savedAt": 1787338093718
+      "savedAt": 1788132440939
     },
     {
       "id": "block_msv4mq5hcl3mzd",
-      "name": "Warm Up 2",
-      "source": "Day 4",
+      "name": "Warm Up (R/L/S)",
+      "source": "Custom block",
       "focus": "Warm Up",
       "pool": "25",
       "block": {
-        "name": "Warm Up 2",
+        "name": "Warm Up (R/L/S)",
         "note": "",
         "focus": "Warm Up",
-        "pool": "",
+        "pool": "25",
         "repeat": 1,
         "roundInstructions": [],
         "items": [
@@ -1194,6 +1262,7 @@
             "count": 1,
             "distance": 200,
             "stroke": "Choice",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "4:00",
             "detail": ""
@@ -1203,70 +1272,26 @@
             "count": 4,
             "distance": 75,
             "stroke": "Freestyle",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "1:00",
             "detail": "Rt/lt/sw, rest 10 sec"
           }
         ]
       },
-      "savedAt": 1786849831861
-    },
-    {
-      "id": "block_msv4mq5h3ntgfl",
-      "name": "Warm Up 3",
-      "source": "Day 3",
-      "focus": "Warm Up",
-      "pool": "25",
-      "block": {
-        "name": "Warm Up 3",
-        "note": "",
-        "focus": "Warm Up",
-        "pool": "",
-        "repeat": 1,
-        "roundInstructions": [],
-        "items": [
-          {
-            "type": "rep",
-            "count": 1,
-            "distance": 200,
-            "stroke": "Choice",
-            "transition": "2:00",
-            "interval": "4:00",
-            "detail": ""
-          },
-          {
-            "type": "rep",
-            "count": 8,
-            "distance": 25,
-            "stroke": "Choice",
-            "transition": "2:00",
-            "interval": "1:00",
-            "detail": "20 sec vertical kick then swim, rest 10 sec"
-          },
-          {
-            "type": "rep",
-            "count": 3,
-            "distance": 100,
-            "stroke": "Freestyle",
-            "transition": "2:00",
-            "interval": "2:00",
-            "detail": "Rt Lt cu sw"
-          }
-        ]
-      },
-      "savedAt": 1786849848027
+      "savedAt": 1788132495172
     },
     {
       "id": "block_msv4mq5hxjvq8m",
-      "name": "Warm Up 4",
-      "source": "Day 1",
+      "name": "Warm Up (Scull / Swim)",
+      "source": "Custom block",
       "focus": "Warm Up",
       "pool": "25",
       "block": {
-        "name": "Warm Up 4",
+        "name": "Warm Up (Scull / Swim)",
         "note": "",
         "focus": "Warm Up",
-        "pool": "",
+        "pool": "25",
         "repeat": 1,
         "roundInstructions": [],
         "items": [
@@ -1275,6 +1300,7 @@
             "count": 1,
             "distance": 200,
             "stroke": "Choice",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "5:00",
             "detail": ""
@@ -1283,7 +1309,8 @@
             "type": "rep",
             "count": 1,
             "distance": 200,
-            "stroke": "Kick",
+            "stroke": "",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "5:00",
             "detail": ""
@@ -1293,25 +1320,26 @@
             "count": 6,
             "distance": 50,
             "stroke": "Freestyle",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "1:00",
             "detail": "25 scull / 25 swim"
           }
         ]
       },
-      "savedAt": 1786850170975
+      "savedAt": 1788132367623
     },
     {
       "id": "block_msv4mq5hguhsk8",
-      "name": "Warm Up 5",
-      "source": "Fun Friday 1",
+      "name": "Warm Up (Upside-down Paddles+K/P/S)",
+      "source": "Custom block",
       "focus": "Warm Up",
       "pool": "25",
       "block": {
-        "name": "Warm Up 5",
+        "name": "Warm Up (Upside-down Paddles+K/P/S)",
         "note": "",
         "focus": "Warm Up",
-        "pool": "",
+        "pool": "25",
         "repeat": 1,
         "roundInstructions": [],
         "items": [
@@ -1320,6 +1348,7 @@
             "count": 1,
             "distance": 200,
             "stroke": "Choice",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "4:00",
             "detail": ""
@@ -1329,6 +1358,7 @@
             "count": 1,
             "distance": 200,
             "stroke": "Freestyle",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "4:00",
             "detail": "Upside down paddles"
@@ -1338,13 +1368,62 @@
             "count": 4,
             "distance": 75,
             "stroke": "Freestyle",
+            "activity": "Swim",
             "transition": "2:00",
             "interval": "2:00",
             "detail": "kick/cu/sw by 25 on 10-15 sec rest"
           }
         ]
       },
-      "savedAt": 1786914271145
+      "savedAt": 1788132413939
+    },
+    {
+      "id": "block_msv4mq5h3ntgfl",
+      "name": "Warm Up (Vertical Kicking, rt/lt/cu/sw)",
+      "source": "Custom block",
+      "focus": "Warm Up",
+      "pool": "25",
+      "block": {
+        "name": "Warm Up (Vertical Kicking, rt/lt/cu/sw)",
+        "note": "",
+        "focus": "Warm Up",
+        "pool": "25",
+        "repeat": 1,
+        "roundInstructions": [],
+        "items": [
+          {
+            "type": "rep",
+            "count": 1,
+            "distance": 200,
+            "stroke": "Choice",
+            "activity": "Swim",
+            "transition": "2:00",
+            "interval": "4:00",
+            "detail": ""
+          },
+          {
+            "type": "rep",
+            "count": 8,
+            "distance": 25,
+            "stroke": "Choice",
+            "activity": "Swim",
+            "transition": "2:00",
+            "interval": "1:00",
+            "detail": "20 sec vertical kick then swim, rest 10 sec"
+          },
+          {
+            "type": "rep",
+            "count": 3,
+            "distance": 100,
+            "stroke": "Freestyle",
+            "activity": "Swim",
+            "transition": "2:00",
+            "interval": "2:00",
+            "detail": "Rt Lt cu sw"
+          }
+        ]
+      },
+      "savedAt": 1788132334005
     }
   ]
 }
