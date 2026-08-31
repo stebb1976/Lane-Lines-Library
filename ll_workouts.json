@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T19:05:32.654Z",
+  "updatedAt": "2026-08-31T01:46:01.968Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -1098,6 +1098,126 @@
       ],
       "id": 15,
       "savedAt": 1786914519914
+    },
+    {
+      "title": "Enurance Freestyle",
+      "focus": "Endurance",
+      "tags": "",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up (Upside-down Paddles+K/P/S)",
+          "note": "",
+          "focus": "Warm Up",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "4:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "4:00",
+              "detail": "Upside down paddles"
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "2:00",
+              "detail": "kick/cu/sw by 25 on 10-15 sec rest"
+            }
+          ]
+        },
+        {
+          "name": "Freestyle Endurance",
+          "note": "",
+          "focus": "Endurance",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 500,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "7:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 2,
+              "distance": 250,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "0:00",
+              "interval": "3:30",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 5,
+              "distance": 100,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "0:00",
+              "interval": "1:25",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 10,
+              "distance": 50,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "0:25",
+              "interval": "0:45",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 20,
+              "distance": 25,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "0:30",
+              "interval": "0:30",
+              "detail": ""
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": []
+        }
+      ],
+      "laneGroups": [],
+      "id": 34,
+      "savedAt": 1788133361286
     },
     {
       "title": "Freestyle Build Up 1",
