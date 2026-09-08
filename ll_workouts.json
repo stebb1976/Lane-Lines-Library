@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T01:46:01.968Z",
+  "updatedAt": "2026-09-08T00:14:53.862Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -1854,6 +1854,167 @@
       "laneGroups": [],
       "id": 33,
       "savedAt": 1787928022515
+    },
+    {
+      "title": "IM Day",
+      "focus": "IM",
+      "tags": "",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up (Kick w Fins/Pull w Paddles)",
+          "note": "",
+          "focus": "Warm Up",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "3:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 6,
+              "distance": 50,
+              "stroke": "Choice",
+              "activity": "Kick",
+              "transition": "1:00",
+              "interval": "1:00",
+              "detail": "kick w fins and board"
+            },
+            {
+              "type": "rep",
+              "count": 6,
+              "distance": 50,
+              "stroke": "Freestyle",
+              "activity": "Pull",
+              "transition": "1:00",
+              "interval": "1:00",
+              "detail": "Free pull w paddles and buoy"
+            }
+          ]
+        },
+        {
+          "name": "Main Set (Drill/Swim)",
+          "note": "High effort on the swim",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Butterfly",
+              "activity": "Swim, Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "w fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Backstroke",
+              "activity": "Swim, Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "w fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Breaststroke",
+              "activity": "Swim, Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "No fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Freestyle",
+              "activity": "Swim, Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "No fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 100,
+              "stroke": "IM",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "2:00",
+              "detail": "Focus on technique"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "IM",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "3:00",
+              "detail": ""
+            }
+          ]
+        },
+        {
+          "name": "Kick Set",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 8,
+              "distance": 75,
+              "stroke": "IM",
+              "activity": "Kick",
+              "transition": "2:00",
+              "interval": "2:00",
+              "detail": "No fins Dolphin kick / breast / flutter by 25"
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 100,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": ""
+            }
+          ]
+        }
+      ],
+      "laneGroups": [],
+      "id": 37,
+      "savedAt": 1788313526996
     },
     {
       "title": "IM Focus",
