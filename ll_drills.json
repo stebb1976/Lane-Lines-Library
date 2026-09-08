@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T20:47:18.349Z",
+  "updatedAt": "2026-09-08T01:03:11.660Z",
   "drills": [
     {
       "id": "drill_mt4rt3rrdac78",
@@ -33,6 +33,12 @@
       "description": "Six kicks on the side, one stroke to switch sides; maintain one goggle in the water."
     },
     {
+      "id": "drill_mtry0cymn25y0",
+      "name": "Arms at Side Rotation",
+      "stroke": "Free",
+      "description": "Arms at Side Rotation"
+    },
+    {
       "id": "drill_mt4j7la20eoaa",
       "stroke": "Back",
       "name": "Arms-at-Sides Rotation",
@@ -57,10 +63,22 @@
       "description": "Practice a legal, powerful pullout with a tight line before the first breakout stroke."
     },
     {
+      "id": "drill_mtrxxabagagup",
+      "name": "Breath Control",
+      "stroke": "Free",
+      "description": "3-5-7-9"
+    },
+    {
       "id": "drill_mt4j7la28vg9u",
       "stroke": "Free",
       "name": "Catch-Up Freestyle",
       "description": "Keep the lead hand extended until the recovering hand meets it, then switch smoothly."
+    },
+    {
+      "id": "drill_mtrxqq3a6xx7d",
+      "name": "Closed Fist",
+      "stroke": "Free",
+      "description": ""
     },
     {
       "id": "drill_mt4j7la2f7n9o",
@@ -69,10 +87,22 @@
       "description": "Use both arms together to reinforce a tall body line and simultaneous finish."
     },
     {
+      "id": "drill_mtrxr06ms3au4",
+      "name": "FInger Tip Drag",
+      "stroke": "Free",
+      "description": ""
+    },
+    {
       "id": "drill_mt4j7la2luzh7",
       "stroke": "Free",
       "name": "Fingertip Drag",
       "description": "Lightly drag the fingertips during recovery to encourage a relaxed, high-elbow return."
+    },
+    {
+      "id": "drill_mtrxt9smnzzsg",
+      "name": "Finish w/ Wrist Flip",
+      "stroke": "Free",
+      "description": ""
     },
     {
       "id": "drill_mt4j7la22j6u3",
@@ -133,6 +163,18 @@
       "stroke": "Back",
       "name": "Streamline Kick on Back",
       "description": "Hold a long streamline while kicking on the back with the head relaxed and hips high."
+    },
+    {
+      "id": "drill_mtrxqupeq4tco",
+      "name": "Thumb Drag",
+      "stroke": "Free",
+      "description": ""
+    },
+    {
+      "id": "drill_mtrxulbp9n16e",
+      "name": "Upside Down Paddles",
+      "stroke": "Free",
+      "description": ""
     }
   ]
 }
