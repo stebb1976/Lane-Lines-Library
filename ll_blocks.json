@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T01:45:54.322Z",
+  "updatedAt": "2026-09-08T00:14:55.474Z",
   "blocks": [
     {
       "id": "block_mt4oa788mjqqw7",
@@ -1045,6 +1045,64 @@
         ]
       },
       "savedAt": 1787943449043
+    },
+    {
+      "id": "block_mtjf783unb7zly",
+      "name": "Main Set (Drill/Swim)",
+      "source": "Custom block",
+      "focus": "",
+      "pool": "25",
+      "block": {
+        "name": "Main Set (Drill/Swim)",
+        "note": "High effort on the swim",
+        "focus": "",
+        "pool": "25",
+        "repeat": 1,
+        "roundInstructions": [],
+        "items": [
+          {
+            "type": "rep",
+            "count": 4,
+            "distance": 75,
+            "stroke": "Butterfly",
+            "activity": "Swim, Drill",
+            "transition": "2:00",
+            "interval": "1:30",
+            "detail": "w fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+          },
+          {
+            "type": "rep",
+            "count": 4,
+            "distance": 75,
+            "stroke": "Backstroke",
+            "activity": "Swim, Drill",
+            "transition": "2:00",
+            "interval": "1:30",
+            "detail": "w fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+          },
+          {
+            "type": "rep",
+            "count": 4,
+            "distance": 75,
+            "stroke": "Breaststroke",
+            "activity": "Swim, Drill",
+            "transition": "2:00",
+            "interval": "1:30",
+            "detail": "No fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+          },
+          {
+            "type": "rep",
+            "count": 4,
+            "distance": 75,
+            "stroke": "Freestyle",
+            "activity": "Swim, Drill",
+            "transition": "2:00",
+            "interval": "1:30",
+            "detail": "No fins: 1st 75 drill, 2nd 50 drill 25 swim, 3rd 25 drill 50 swim, 4th 75 swim "
+          }
+        ]
+      },
+      "savedAt": 1788312686538
     },
     {
       "id": "block_mt33o7z77xgai7",
