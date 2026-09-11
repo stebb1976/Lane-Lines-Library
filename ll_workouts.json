@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T01:03:16.623Z",
+  "updatedAt": "2026-09-11T16:42:02.077Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -711,6 +711,156 @@
       ],
       "id": 29,
       "savedAt": 1787609382691
+    },
+    {
+      "title": "Butterfly",
+      "focus": "",
+      "tags": "",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up (Kick w Fins/Pull w Paddles)",
+          "note": "",
+          "focus": "Warm Up",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "5:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 50,
+              "stroke": "",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "Streamline kick w fins"
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "pull w paddles"
+            }
+          ]
+        },
+        {
+          "name": "Main Set",
+          "note": "",
+          "focus": "Butterfly",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 8,
+              "distance": 75,
+              "stroke": "Butterfly",
+              "activity": "Swim, Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "W fins right/left/both arms by 25"
+            },
+            {
+              "type": "rep",
+              "count": 12,
+              "distance": 25,
+              "stroke": "Butterfly",
+              "activity": "Swim, Kick",
+              "transition": "2:00",
+              "interval": "0:45",
+              "detail": "W fins Work underwaters, swim rest of way after surfacing "
+            },
+            {
+              "type": "rep",
+              "count": 10,
+              "distance": 50,
+              "stroke": "Butterfly",
+              "activity": "Kick",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "W fins Dolphin kick on back"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 100,
+              "stroke": "Butterfly",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "3:00",
+              "detail": "No fins, keep it long, do one arm if not able to do full 100 fly"
+            },
+            {
+              "type": "rep",
+              "count": 2,
+              "distance": 50,
+              "stroke": "Butterfly",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "No fins: fast but still long"
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 25,
+              "stroke": "Butterfly",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "0:45",
+              "detail": "No fins: all out"
+            }
+          ]
+        },
+        {
+          "name": "Sprints from blocks",
+          "note": "Do these until the end of practice ",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 25,
+              "stroke": "Butterfly, Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "Mix in fly with choice"
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": []
+        }
+      ],
+      "laneGroups": [],
+      "savedAt": 1788954641660,
+      "id": 40
     },
     {
       "title": "Butterfly Build Up",
