@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T21:32:32.039Z",
+  "updatedAt": "2026-10-01T19:09:08.018Z",
   "sets": [
     {
       "title": "Backstroke Build Up",
@@ -997,6 +997,103 @@
       "id": 24
     },
     {
+      "id": 45,
+      "title": "Cardio Free & Non-Free Technique 4000",
+      "focus": "Cardiovascular fitness with mixed-stroke technique",
+      "tags": "cardio, freestyle, non-free, stroke technique, aerobic",
+      "pool": "25",
+      "savedAt": 1790876993233,
+      "blocks": [
+        {
+          "name": "Warm Up",
+          "note": "Build steadily from easy aerobic swimming into purposeful freestyle rhythm.",
+          "reps": [
+            {
+              "count": 1,
+              "distance": 400,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "6:00",
+              "detail": "100 free / 100 choice non-free, repeat"
+            },
+            {
+              "count": 4,
+              "distance": 50,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "0:50",
+              "detail": "Build 1–4; long body line and relaxed recovery"
+            }
+          ]
+        },
+        {
+          "name": "Stroke Technique",
+          "note": "Use a non-free stroke of choice. Prioritize body line, timing, and clean walls while keeping the heart rate active.",
+          "reps": [
+            {
+              "count": 8,
+              "distance": 50,
+              "stroke": "Choice",
+              "activity": "Drill",
+              "transition": "2:00",
+              "interval": "1:10",
+              "detail": "Non-free choice: 25 drill / 25 swim; alternate technique emphasis"
+            },
+            {
+              "count": 4,
+              "distance": 50,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "Non-free choice; build through the second 25 with clean form"
+            }
+          ]
+        },
+        {
+          "name": "Aerobic Cardio",
+          "note": "Sustain a strong aerobic effort. Freestyle carries the main cardiovascular load; non-free swimming adds variety without turning the set into strength work.",
+          "reps": [
+            {
+              "count": 4,
+              "distance": 400,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "5:00",
+              "interval": "6:00",
+              "detail": "Negative split each 400; steady kick and controlled breathing"
+            },
+            {
+              "count": 8,
+              "distance": 100,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "5:00",
+              "interval": "1:45",
+              "detail": "Choice non-free; aerobic and technically clean, descend 1–4 twice"
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "Easy swimming; finish loose and technically composed.",
+          "reps": [
+            {
+              "count": 1,
+              "distance": 400,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "4:00",
+              "interval": "7:20",
+              "detail": "Alternate 100 free / 100 choice non-free at recovery effort"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Day 1",
       "focus": "Evaluation",
       "tags": "Evaluation",
@@ -1368,6 +1465,116 @@
       "laneGroups": [],
       "id": 34,
       "savedAt": 1788133361286
+    },
+    {
+      "id": 46,
+      "title": "Free / Choice",
+      "focus": "",
+      "tags": "",
+      "pool": "25",
+      "blocks": [
+        {
+          "name": "Warm Up",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "0:00",
+              "interval": "4:00",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "IM",
+              "activity": "Drill",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": ""
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 75,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:30",
+              "detail": "build"
+            }
+          ]
+        },
+        {
+          "name": "Main Set",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": [
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 50,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "build"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Freestyle",
+              "activity": "Swim",
+              "transition": "0:00",
+              "interval": "3:00",
+              "detail": "negative split"
+            },
+            {
+              "type": "rep",
+              "count": 4,
+              "distance": 50,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "2:00",
+              "interval": "1:00",
+              "detail": "build"
+            },
+            {
+              "type": "rep",
+              "count": 1,
+              "distance": 200,
+              "stroke": "Choice",
+              "activity": "Swim",
+              "transition": "0:00",
+              "interval": "3:00",
+              "detail": "negative split"
+            }
+          ]
+        },
+        {
+          "name": "Cool Down",
+          "note": "",
+          "focus": "",
+          "pool": "25",
+          "repeat": 1,
+          "roundInstructions": [],
+          "items": []
+        }
+      ],
+      "laneGroups": [],
+      "savedAt": 1790879891779
     },
     {
       "title": "Free Cardio",
