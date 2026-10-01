@@ -1,12 +1,161 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T18:19:51.721Z",
+  "updatedAt": "2026-10-01T19:09:10.550Z",
   "scheduledWorkouts": [
     {
       "id": "meet_mtd2h6q4hciycy",
       "type": "meet",
       "date": "2026-08-27",
       "title": "LHMS v ERHS v THS"
+    },
+    {
+      "id": "calendar_mupvnccnxmmpik",
+      "date": "2026-10-01",
+      "notes": "",
+      "set": {
+        "id": 46,
+        "title": "Free / Choice",
+        "focus": "",
+        "tags": "",
+        "pool": "25",
+        "blocks": [
+          {
+            "name": "Warm Up",
+            "note": "",
+            "focus": "",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "4:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "IM",
+                "activity": "Drill",
+                "transition": "0:00",
+                "interval": "3:00",
+                "detail": ""
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 75,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": "build"
+              }
+            ]
+          },
+          {
+            "name": "Main Set",
+            "note": "",
+            "focus": "",
+            "pool": "25",
+            "repeat": 3,
+            "roundInstructions": [
+              "Swim",
+              "Pull w/ paddles",
+              "Kick w/ fins"
+            ],
+            "items": [
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "build"
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "3:00",
+                "detail": "negative split"
+              },
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:00",
+                "detail": "build"
+              },
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 200,
+                "stroke": "Choice",
+                "activity": "Swim",
+                "transition": "0:00",
+                "interval": "3:30",
+                "detail": "negative split"
+              }
+            ]
+          },
+          {
+            "name": "Sprints (25+)",
+            "note": "",
+            "focus": "",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 4,
+                "distance": 50,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "4:00",
+                "detail": "25+ fast easy rest of way"
+              }
+            ]
+          },
+          {
+            "name": "Cool Down",
+            "note": "",
+            "focus": "",
+            "pool": "25",
+            "repeat": 1,
+            "roundInstructions": [],
+            "items": [
+              {
+                "type": "rep",
+                "count": 1,
+                "distance": 100,
+                "stroke": "Freestyle",
+                "activity": "Swim",
+                "transition": "2:00",
+                "interval": "1:30",
+                "detail": ""
+              }
+            ]
+          }
+        ],
+        "laneGroups": []
+      }
     }
   ]
 }
